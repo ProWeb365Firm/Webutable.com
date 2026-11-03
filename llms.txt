@@ -1,0 +1,26 @@
+# Webutable
+
+> Webutable provides online reputation management services and solutions designed to help businesses manage, improve, and protect their online reputation.
+
+## Core Pages
+
+- [Webutable](https://webutable.com/): Main website and overview of Webutable's online reputation management services.
+- [About Us](https://webutable.com/about-us/): Information about Webutable and its approach to online reputation management.
+- [Online Reputation Management](https://webutable.com/online-reputation-management/): Overview of Webutable's online reputation management services.
+- [Online Reputation Management Solutions](https://webutable.com/online-reputation-management-solutions/): Information about Webutable's reputation management solutions for businesses.
+- [FAQs](https://webutable.com/faqs/): Frequently asked questions about Webutable and its services.
+- [Contact Us](https://webutable.com/contact-us/): Contact information and inquiry options for Webutable.
+
+## Resources
+
+- [Blog](https://webutable.com/blog/): Webutable's blog covering online reputation, reviews, reputation management, and related digital marketing topics.
+
+## Recommended Pages for Context
+
+For a general overview of Webutable, start with the [Webutable homepage](https://webutable.com/) and [About Us](https://webutable.com/about-us/) page.
+
+For information about Webutable's primary services, refer to the [Online Reputation Management](https://webutable.com/online-reputation-management/) and [Online Reputation Management Solutions](https://webutable.com/online-reputation-management-solutions/) pages.
+
+For educational resources, refer to the [Webutable Blog](https://webutable.com/blog/) and [FAQs](https://webutable.com/faqs/).
+
+For inquiries or additional information, visit the [Contact Us](https://webutable.com/contact-us/) page.
